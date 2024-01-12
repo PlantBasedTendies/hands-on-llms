@@ -449,7 +449,7 @@ def run():
         logger.info(f"{prompt=}")
 
         response = openai.Completion.create(
-            engine="text-davinci-003",
+            engine="gpt-3.5-turbo-instruct",
             prompt=prompt,
             temperature=0,
             max_tokens=100,
