@@ -12,8 +12,8 @@ This is an invaluable 3-part production-ready FTI feature-training-inference RAG
 Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant. \
 \
 In this iteration, I've replaced Falcon 7B Instruct with the currently-SoTa (Jan'24) Mistral-7B-Instruct-v0.2, \
-fine-tuned using Unsloth on an expanded dataset of financial questions and answers generated with the help of GPT-4, \
-quantized and augmented with a 4bit QLoRa. \
+fine-tuned using Unsloth on an expanded dataset of financial questions and answers generated with the help of \
+GPT-4, quantized and augmented with a 4bit QLoRa. \
 \
 Prompt analysis and model registry is handled by Comet LLM, and finance news is streamed via Bytewax using an \
 Alpaca API, then parsed, cleaned, and chunked with unstructured, and finally sent as a vector embedding to \
