@@ -15,6 +15,8 @@ In this iteration, I've replaced Falcon 7B Instruct with the currently-SoTa (Jan
 fine-tuned using Unsloth on an expanded dataset of financial questions and answers generated with the help of \
 GPT-4, quantized and augmented with a 4bit QLoRa. \
 \
+Live Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_Bot] \
+\
 Prompt analysis and model registry is handled by Comet LLM, and finance news is streamed via Bytewax using an \
 Alpaca API, then parsed, cleaned, and chunked with unstructured, and finally sent as a vector embedding to \
 Qdrant's serverless vector store. LangChain chains the prompt and most relevant news article with real-time \
