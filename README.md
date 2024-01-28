@@ -24,5 +24,5 @@ finance information, contextualizing the output. \
 \
 #TODO: Add citations to output to show end-user which article has been used to generate the output. \
 \
-I have contributed to the original MIT licensed (ka-ching!) course which can be found here: \
+I have contributed to the original (MIT licensed, ka-ching!) course which can be found here: \
 [https://medium.com/decoding-ml/the-llms-kit-build-a-production-ready-real-time-financial-advisor-system-using-streaming-ffdcb2b50714]
