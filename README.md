@@ -1,7 +1,7 @@
 
 ## :money_with_wings: Friendly Fincancial Bot 
 
-[Inference Demo Here][https://huggingface.co/spaces/PlantBasedTen/Financial_Bot]
+Inference Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_Bot]
 
 This is an invaluable 3-part production-ready FTI feature-training-inference RAG-framework LLMOps course. \
 In this iteration, I've replaced Falcon 7B Instruct with the currently-SoTa (Jan'24) Mistral-7B-Instruct-v0.2, \
