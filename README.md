@@ -5,7 +5,7 @@ Inference Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_
 \
 ![financial_bot_01-28-24](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/2abc56c1-94cd-47fa-b6ec-a7472bb3ad58) \
 \
-![benzinga_boeing_01-28-24](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/b9442b22-7e50-4133-85b2-6f634bfdf38c) \
+![benzinga_boeing_jan-28-2024](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/cd4ec1a6-3589-4f95-969d-f2c7fd494cd9) \
 [https://www.benzinga.com/news/24/01/36678185/whats-going-on-with-boeing-stock] \
 \
 This is an invaluable 3-part production-ready FTI feature-training-inference RAG-framework LLMOps course by \
