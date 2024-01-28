@@ -1,9 +1,10 @@
 
 ## :money_with_wings: Friendly Fincancial Bot 
 
-Inference Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_Bot]
+Inference Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_Bot] \
+\
 ![financial_bot_01-28-24](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/2abc56c1-94cd-47fa-b6ec-a7472bb3ad58)
-Recent news (Jan '24):
+\
 ![cnn_boeing_jan_18_2024](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/edd55e5b-79f7-4c46-9e5a-c51f553a8351)
 
 This is an invaluable 3-part production-ready FTI feature-training-inference RAG-framework LLMOps course by \
