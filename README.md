@@ -10,8 +10,9 @@ Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant.
 \
 ![boeing](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/3f0a98f2-6b88-4e8e-99aa-52a2419f335b) \
 \
+Reference article for output contextualization: \
 ![benzinga_boeing_jan-28-2024](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/cd4ec1a6-3589-4f95-969d-f2c7fd494cd9) \
-[https://www.benzinga.com/news/24/01/36678185/whats-going-on-with-boeing-stock] \
+[https://www.benzinga.com/news/24/01/36678185/whats-going-on-with-boeing-stock]
 
 -----
 \
