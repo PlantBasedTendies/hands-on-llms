@@ -4,7 +4,7 @@
 Inference Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_Bot] \
 \
 This is an invaluable 3-part production-ready FTI feature-training-inference RAG-framework LLMOps course by \
-Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant. \
+Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant.
 
 -----
 \
