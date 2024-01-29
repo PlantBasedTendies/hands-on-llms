@@ -8,7 +8,7 @@ Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant.
 
 -----
 
-![boeing](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/3f0a98f2-6b88-4e8e-99aa-52a2419f335b) \
+![boeing](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/3f0a98f2-6b88-4e8e-99aa-52a2419f335b)
 
 -----
 
