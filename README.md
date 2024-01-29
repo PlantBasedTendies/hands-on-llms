@@ -3,13 +3,17 @@
 
 Inference Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_Bot] \
 \
+This is an invaluable 3-part production-ready FTI feature-training-inference RAG-framework LLMOps course by \
+Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant. \
+
+-----
+\
 ![boeing](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/3f0a98f2-6b88-4e8e-99aa-52a2419f335b) \
 \
 ![benzinga_boeing_jan-28-2024](https://github.com/PlantBasedTendies/hands-on-llms/assets/86295293/cd4ec1a6-3589-4f95-969d-f2c7fd494cd9) \
 [https://www.benzinga.com/news/24/01/36678185/whats-going-on-with-boeing-stock] \
-\
-This is an invaluable 3-part production-ready FTI feature-training-inference RAG-framework LLMOps course by \
-Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant. \
+
+-----
 \
 In this iteration, I've replaced Falcon 7B Instruct with the currently-SOTA (Jan '24) Mistral-7B-Instruct-v0.2, \
 fine-tuned using Unsloth on an expanded dataset of financial questions and answers generated with the help of \
