@@ -35,5 +35,3 @@ finance information, contextualizing the output. \
 \
 I have contributed to the original (MIT licensed, ka-ching!) course which can be found here: \
 [https://medium.com/decoding-ml/the-llms-kit-build-a-production-ready-real-time-financial-advisor-system-using-streaming-ffdcb2b50714]
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=plantbasedtendies)]
