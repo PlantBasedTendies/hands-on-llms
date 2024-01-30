@@ -2,6 +2,7 @@
 ## :money_with_wings: Friendly Fincancial Bot 
 
 Inference Demo Here: 👉[https://huggingface.co/spaces/PlantBasedTen/Financial_Bot] \
+_Please note: Waking from sleep state can take ~180 seconds_
 \
 This is an intermediate production-ready FTI feature-training-inference RAG-framework LLMOps course by \
 Paul Iusztin, Pau Labarta Bajo, and Alexandru Razvant.
